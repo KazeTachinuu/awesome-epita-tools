@@ -4,6 +4,10 @@ A curated list of tools for EPITA students. No fluff — only things you can act
 
 Contributions welcome — open a PR.
 
+## MAGA - Make Auriga Great Again
+
+- [infinity-auriga](https://github.com/KazeTachinuu/infinity-auriga/) - Enhanced grades UI for Auriga (EPITA). Fork of Infinity Pegasus.
+
 ## Developer Tools
 
 - [epita-gitignore](https://github.com/KazeTachinuu/epita-gitignore) — Whitelist `.gitignore` templates + script to auto-detect school-provided files from exercise PDFs.
