@@ -14,6 +14,10 @@ Contributions welcome — open a PR.
 - [epita-coding-style](https://github.com/KazeTachinuu/epita-coding-style) — Fast C/C++ linter for EPITA coding style. Tree-sitter AST parsing, 58 rules, `clang-format` integration.
 - [epita-moulinette-notifs](https://github.com/KazeTachinuu/epita-moulinette-notifs) — Tampermonkey userscript for desktop notifications when moulinette tags are processed on the Forge intranet.
 
+## PIE at Home
+
+- [epita-pie-vm](https://github.com/KazeTachinuu/epita-pie-vm) - The real PIE desktop (i3, toolchains, AFS) on your own machine: VirtualBox/VMware OVA or Docker container, built from epita/nixpie.
+
 ## Resources
 
 - [Forge Docs](https://docs.forge.epita.fr/) — Official Forge documentation (Git, intranet, testing).
