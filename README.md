@@ -17,6 +17,7 @@ Contributions welcome — open a PR.
 ## PIE at Home
 
 - [epita-pie-vm](https://github.com/KazeTachinuu/epita-pie-vm) - The real PIE desktop (i3, toolchains, AFS) on your own machine: VirtualBox/VMware OVA or Docker container, built from epita/nixpie.
+- [epita-ing1-setup](https://github.com/KazeTachinuu/epita-ing1-setup) - EPITA PIE dev environment: one-line install, survives the session wipe.
 
 ## Resources
 
